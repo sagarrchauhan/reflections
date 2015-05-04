@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	The timeline is set at the point the repository is created. Now any changes can be tracked by different file versions.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	Staging area allows only those files to be tracked whose contents we want to track when it gets changed.

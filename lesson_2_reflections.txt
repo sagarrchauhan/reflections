@@ -9,3 +9,8 @@ How is the staging area different from the working directory and the repository?
 How can you use the staging area to make sure you have one commit per logical change?
 
 	Only those files should be added to staging area whose changes are related to one logical change and then they should be commited.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Different versions(as in difficulty modes, new varying features, different language etc.) can be added.
+	Branches help in maintaning the different versions of same game.(as defined above)

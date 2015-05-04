@@ -4,4 +4,8 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
-	Staging area allows only those files to be tracked whose contents we want to track when it gets changed.
+	Staging area allows only those files to be tracked whose contents we want to track when it gets changed. Thus the repository doesn't need to have any extra files whose history and data has to be maintained.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Only those files should be added to staging area whose changes are related to one logical change and then they should be commited.

@@ -19,3 +19,7 @@ What is the benefit of having a copy of the last known state of the remote store
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 	Without git and github there are traditional ways to just sit together and code and check everytime. The easy part would be that collaboration would be real-time but there are more harder things to cope up with. Like being together all the time which may lead to idle time, checking of code everytime etc.
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	Whn I want to experiment with some new feature, make modifications of my own, or just to play around with code without changing the master branch.

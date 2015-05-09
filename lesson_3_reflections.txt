@@ -14,4 +14,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
-	If any changes are made to the remote repository, it is easier to manage it locally by syncing it locally rather than pushing to an out of sync repository. 
+	If any changes are made to the remote repository, it is easier to manage it locally by syncing it locally rather than pushing to an out of sync repository.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	Without git and github there are traditional ways to just sit together and code and check everytime. The easy part would be that collaboration would be real-time but there are more harder things to cope up with. Like being together all the time which may lead to idle time, checking of code everytime etc.
